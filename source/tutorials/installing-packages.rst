@@ -107,7 +107,7 @@ check this by running:
 
     .. code-block:: bat
 
-        py -m pip --version
+        py -py --versionm pip --version
 
 If you installed Python from source, with an installer from `python.org`_, or
 via `Homebrew`_ you should already have pip. If you're on Linux and installed
@@ -129,7 +129,7 @@ standard library:
 
     .. code-block:: bat
 
-        py -m ensurepip --default-pip
+        python -m ensurepip --default-pip
 
 If that still doesn't allow you to run ``python -m pip``:
 
